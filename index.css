@@ -1,0 +1,110 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(./1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu h1{
+    float: left;
+    margin-right: 160px;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.menu i{
+    padding-top: 10px;
+    float: right;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.menu li{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    margin-top: 15px;
+}
+
+.menu li a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding-left: 40px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+#banner{
+    clear: both;
+}
+#left{
+    margin-top: 180px;
+float: left;
+margin-left: 10px;
+
+}
+#left h1{
+    font-size: 60px;
+}
+#left h2{
+    font-size: 60px;
+    background-color: black;
+    color: white;
+    margin-bottom: 30px;
+    padding-left: 8px;
+}
+#left a{
+    text-decoration: none;
+    color: black;
+    border: 2px solid;
+    padding: 15px;
+}
+#right{
+    margin-top: 100px;
+    float: right;
+}
+#right h3{
+    clear: both;
+    float: right;
+    font-size: 60px;
+    font-weight: lighter;
+}
+#right h4{
+    clear: both;
+    float: right;
+    font-size: 50px;
+    font-weight: lighter;
+}
+#right h5{
+    margin-top: 10px;
+    clear: both;
+    float: right;
+    font-size:20px;
+    font-weight: lighter;
+    color: darkgrey;
+}
+#right p{
+    clear: both;
+    float: right;
+    font-size:20px;
+    font-weight: lighter;
+    color:darkgrey;
+    margin-bottom: 30px;
+
+}
+#right h2{
+    clear: both;
+    float: right;
+    font-size: 30px;
+    padding: 8px;
+    font-weight: lighter;
+    color: gray;
+}
+
