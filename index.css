@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     box-sizing: border-box;
 }
 
@@ -13,30 +13,29 @@ body{
 
 .menu h1{
     float: left;
-    margin-right: 160px;
-    font-size: 30px;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin-right: 10vw;
+    font-size: 2.5vw;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 .menu i{
-    padding-top: 10px;
     float: right;
-    padding: 10px;
-    font-size: 20px;
-    margin-top: 15px;
+    padding: 1vw;
+    font-size: 1.5vw;
+    margin-top: 10px;
 }
 .menu li{
     text-decoration: none;
     list-style-type: none;
     float: left;
-    margin-top: 15px;
+    margin-top: 10px;
 }
 
 .menu li a{
     display: block;
     text-decoration: none;
     color: black;
-    font-size: 20px;
+    font-size: 1.6vw;
     padding-left: 40px;
     padding-top: 10px;
     font-weight: bold;
@@ -45,55 +44,57 @@ body{
     clear: both;
 }
 #left{
-    margin-top: 180px;
-float: left;
-margin-left: 10px;
+    margin-top:12vw;
+    float: left;
+    margin-left: 15px;
 
 }
 #left h1{
-    font-size: 60px;
+    font-size: 3.8vw;
 }
 #left h2{
-    font-size: 60px;
+    font-size: 3.9vw;
     background-color: black;
     color: white;
     margin-bottom: 30px;
     padding-left: 8px;
+    padding-right: 8px;
 }
 #left a{
     text-decoration: none;
     color: black;
-    border: 2px solid;
+    border: 2.5px solid;
     padding: 15px;
 }
 #right{
-    margin-top: 100px;
+    margin-top: 6vw;
     float: right;
+    margin-right: 10px;
 }
 #right h3{
     clear: both;
     float: right;
-    font-size: 60px;
+    font-size:4vw;
     font-weight: lighter;
 }
 #right h4{
     clear: both;
     float: right;
-    font-size: 50px;
+    font-size: 3.7vw;
     font-weight: lighter;
 }
 #right h5{
     margin-top: 10px;
     clear: both;
     float: right;
-    font-size:20px;
+    font-size:1.4vw;
     font-weight: lighter;
     color: darkgrey;
 }
 #right p{
     clear: both;
     float: right;
-    font-size:20px;
+    font-size:1.4vw;
     font-weight: lighter;
     color:darkgrey;
     margin-bottom: 30px;
@@ -102,7 +103,7 @@ margin-left: 10px;
 #right h2{
     clear: both;
     float: right;
-    font-size: 30px;
+    font-size: 2vw;
     padding: 8px;
     font-weight: lighter;
     color: gray;
